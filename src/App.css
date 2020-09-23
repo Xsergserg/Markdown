@@ -1,0 +1,20 @@
+#mainContainer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+#editor {
+  width: 70%;
+  align-self: center;
+  background-color: aquamarine;
+}
+
+#preview {
+  width: 90%;
+  align-self: center;
+  text-align: justify;
+  background-color: rgb(151, 190, 178);
+  height: auto;
+}
